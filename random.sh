@@ -1,5 +1,5 @@
 
-rand=$(( RANDOM%10 ))
+rand=$(( RANDOM%11 ))
 
 echo $rand
 
