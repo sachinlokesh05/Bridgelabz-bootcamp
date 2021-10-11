@@ -1,7 +1,7 @@
 
 declare -A person
 
-person[name]="sachin"
+person[name]="lokesh"
 person[age]=101
 person[place]="bnglr"
 
